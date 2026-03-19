@@ -51,7 +51,7 @@ LLM-based research assistant
 Python  
 
 **AI / ML**  
-PyTorch, Scikit-learn, XGBoost  
+PyTorch, Scikit-learn
 
 **LLM / Tools**  
 OpenAI API, LangChain  
