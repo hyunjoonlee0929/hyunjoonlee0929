@@ -33,10 +33,35 @@ Modular AI system for data analysis
 ---
 
 ### 🔹 Paper2Hypothesis
-LLM-based research assistant  
-- Paper → Summary → Limitation → Hypothesis → Experiment  
-- Multi-agent reasoning pipeline  
-- Semantic Scholar API for novelty check  
+LLM-based research assistant for hypothesis generation and experiment design
+
+- Designed a multi-agent LLM pipeline for paper analysis (summary → limitation → hypothesis → experiment)  
+- Implemented structured JSON outputs with strict schema validation for reliable downstream usage  
+- Enhanced retrieval with hybrid dense + BM25 search and Reciprocal Rank Fusion  
+- Built novelty detection pipeline using Semantic Scholar API and semantic similarity scoring  
+- Developed Streamlit-based interface with mock mode for reproducible testing without API dependency  
+
+---
+
+### 🔹 NutriPharmAI
+LLM-powered pharmacist chatbot for supplement and drug safety analysis
+
+- Developed a chatbot to analyze supplement dosage and detect harmful drug interactions  
+- Built LLM pipeline using LangChain and LangGraph for multi-step reasoning and response generation  
+- Integrated RAG pipeline with embedding-based retrieval for accurate domain-specific responses  
+- Utilized external APIs for OCR, document parsing, and grounding verification  
+- Achieved finalist position in Upstage AI Hackathon
+
+---
+
+### 🔹 Cygate GUI Project
+Interactive tool for automated and manual cytometry data gating
+
+- Developed GUI-based application for flow cytometry data analysis  
+- Integrated Cygate algorithm for automated single-cell gating  
+- Implemented manual gating functionality for flexible user-driven analysis  
+- Provided visualization tools including t-SNE plots and distribution analysis  
+- Built evaluation module for assessing gating quality
 
 ---
 
