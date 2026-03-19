@@ -1,7 +1,5 @@
 # Hyunjoon Lee (이현준) AI Research Scientist/Engineer
 
-# 👋 Hi, I'm Hyunjoon Lee
-
 🎯 AI Engineer | Applied AI | LLM & ML Systems  
 🎓 M.S. in Artificial Intelligence  
 
