@@ -15,8 +15,9 @@
 
 ## 🧠 Research
 **Multi-task Learning for Glycosylation Structural Feature Prediction**
-- Designed multi-task deep learning model for biological structure prediction  
-- Integrated domain-specific features for improved generalization  
+- Designed a two-stage deep learning framework to predict glycosylation features directly from MS/MS spectra  
+- Achieved 99.85% accuracy in glycopeptide detection and 76–97% accuracy for structural feature prediction (AUROC > 0.91)  
+- Demonstrated multi-task learning performance comparable to single-task models while enabling efficient simultaneous prediction  
 - Presented at HUPO2025 conference (poster)
 
 ---
