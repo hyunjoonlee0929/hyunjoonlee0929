@@ -24,11 +24,15 @@
 
 ## 🛠 Projects
 
-### 🔹 OmniInsight
-Modular AI system for data analysis  
-- Multi-agent architecture (data summary / modeling / interpretation)  
-- XGBoost + explainability (Permutation Importance)  
-- Structured report generation  
+### 🔹 Easy Deep Learning
+End-to-end AI platform for reproducible ML workflows and multi-modal experimentation
+
+- Designed and developed an end-to-end AI platform covering data ingestion, preprocessing, training, evaluation, explainability, and deployment  
+- Built a modular architecture enabling unified workflows across CLI, dashboard (Streamlit), and API (FastAPI)  
+- Supported multi-modal AI tasks including tabular, image, text, audio, detection, RAG, and LLM-based applications  
+- Implemented reproducible experiment tracking with run-based artifact management and comparison reports  
+- Integrated AutoML, hyperparameter tuning, and model explainability (SHAP, PDP/ICE, error analysis)  
+- Enabled seamless transition from experimentation to deployment via real-time inference APIs  
 
 ---
 
